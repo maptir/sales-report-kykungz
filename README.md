@@ -3,7 +3,7 @@
 Print reports for sales made at a Store.
 See this lab sheet for detailed description: [PracticeExam.pdf](https://github.com/skeoop/skeoop.github.io/blob/master/week8/PracticeExam.pdf).
 
-This project includes a JAR file (`store.jar`) containing code for the Store, Sale, and LineItem classes that you will use.  Add the JAR to your project in Eclipse or Netbeans. See labsheet for how to add a JAR to your project.
+This project includes a JAR file `store.jar` containing code for the Store, Sale, and LineItem classes that you will use.  Add the JAR to your project in Eclipse or Netbeans. See labsheet for how to add a JAR to your project.
 
 ## There are 3 problems
 
